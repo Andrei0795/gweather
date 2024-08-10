@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "apple_like_loading_indicator_image.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

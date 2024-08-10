@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  G Weather
+
+  Created by Andrei Ionescu on 09.08.2024.
+  
+*/
+
+"cannot_compute_duration" = "Cannot compute duration";
+"sent_by" = "Sent by: %@";
+"start_date" = "Start Date";
+"no_start_date" = "No Start Date";
+"end_date" = "End Date";
+"no_end_date" = "No End Date";
+"duration" = "Duration";
+"general_internet_error_message" = "There seems to be a problem with your internet connection. Please check it and try again.";
+"general_error_could_not_fetch_data_message" = "There was an error fetching data. Please try again later.";
