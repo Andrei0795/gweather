@@ -1,8 +1,11 @@
 # gweather
 
-## Short Description
+## Short Description & Image
 
 A very simple weather app that showcases the display of a list containing weather alerts in the US.
+
+<img width="200" alt="Screenshot 2024-05-28 at 23 40 47" src="https://github.com/user-attachments/assets/342a6983-9b57-438f-9f34-8d65f27658ff">
+
 
 ## Overview
 
